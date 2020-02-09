@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMediaPlayerDuration</string>
+    <string name="enter_media_url">Enter Media Url</string>
+    <string name="enter">Enter</string>
+</resources>
